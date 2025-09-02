@@ -21,7 +21,7 @@
     <script language="javascript">
         document.write("<h2>Script do lado do cliente com JavaScript</h2>");
         document.write("<p>Este é um script que roda no navegador do usuário.</p>");
-        document.write("<p>Data e hora local: " + new Date().toLocaleString() + "</p>");
+        document.write("<p>Data e hora local: " + new Date().toLocaleString() + "</p>"); 
     </script> 
 </body>
 </html>
